@@ -11,6 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mlmldev34/coding-test/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mlmldev34/coding-test/tree/master/0136-single-number) |
 ## Stack
 |  |
@@ -19,5 +20,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mlmldev34/coding-test/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/mlmldev34/coding-test/tree/master/0682-baseball-game) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mlmldev34/coding-test/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mlmldev34/coding-test/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
