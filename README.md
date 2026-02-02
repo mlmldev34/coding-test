@@ -26,8 +26,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mlmldev34/coding-test/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/mlmldev34/coding-test/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mlmldev34/coding-test/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mlmldev34/coding-test/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
