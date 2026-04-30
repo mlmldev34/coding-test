@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0136-single-number](https://github.com/mlmldev34/coding-test/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/mlmldev34/coding-test/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/mlmldev34/coding-test/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -22,6 +23,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0067-add-binary](https://github.com/mlmldev34/coding-test/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/mlmldev34/coding-test/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/mlmldev34/coding-test/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
