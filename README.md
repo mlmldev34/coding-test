@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0136-single-number](https://github.com/mlmldev34/coding-test/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/mlmldev34/coding-test/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/mlmldev34/coding-test/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/mlmldev34/coding-test/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/mlmldev34/coding-test/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mlmldev34/coding-test/tree/master/1929-concatenation-of-array) |
@@ -16,6 +17,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0067-add-binary](https://github.com/mlmldev34/coding-test/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mlmldev34/coding-test/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/mlmldev34/coding-test/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
@@ -39,4 +41,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mlmldev34/coding-test/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/mlmldev34/coding-test/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/mlmldev34/coding-test/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
